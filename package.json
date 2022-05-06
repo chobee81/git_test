@@ -1,0 +1,25 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "github",
+  "main": "app.js",
+  "scripts": {
+    "test": "github"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chobee81/git_test.git"
+  },
+  "keywords": [
+    "github"
+  ],
+  "author": "chobee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chobee81/git_test/issues"
+  },
+  "homepage": "https://github.com/chobee81/git_test#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
